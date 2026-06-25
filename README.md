@@ -1,3 +1,5 @@
+Linktree: https://linktr.ee/planta223
+
 ### 현재 기술 스택
 - 언어 : C, C++, C#, Python, Verilog, Assembly
 - 하드웨어 : ATmega128p, ArduinoUNO, STM32, RaspberryPi, Spartan7
