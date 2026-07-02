@@ -9,5 +9,5 @@ Linktree: https://linktr.ee/planta223
 ### 추후 희망 공부 분야
 - 하드웨어 : ESP32
 - 통신 : Wifi, CAN
-- 제어 : ROS2 Gabezo / PD, ADRC, Advanced 모터제어
+- 제어 : ROS2 Gazebo, RViz / PD, ADRC, Advanced 모터제어
 - 비전 : OpenCV / YOLO
