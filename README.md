@@ -1,7 +1,7 @@
 ### 주요 프로젝트
 - Actuator : BLDC/DC Speed Control, AC position Control, Stepper Control
 - Sensor : RiDAR, OpenCV
-- Hardware : FPGA
+- Hardware : MCU, FPGA
 
 ### 현재 기술 스택
 - 언어 : C, C++, C#, Python, Verilog, Assembly
