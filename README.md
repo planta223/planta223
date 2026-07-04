@@ -1,5 +1,3 @@
-Linktree: https://linktr.ee/planta223
-
 ### 주요 프로젝트
 - Actuator : BLDC/DC Speed Control, AC position Control, Stepper Control
 - Sensor : RiDAR, OpenCV
