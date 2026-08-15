@@ -1,16 +1,25 @@
+> Last updated: 2026.08.15
+### 현재 진행중인 과제
+- 자작자율주행차 조향시스템 개발
+- Foundation Pose 기반 6D Pose Estimation 고속화
+- 2026년 임베디드소프트웨어 경진대회 준비
+- 2027년 NURA 전국대학교로켓발사대회 준비
+
 ### 주요 프로젝트
-- Actuator : BLDC/DC Speed Control, AC position Control, Stepper Control
-- Sensor : RiDAR, OpenCV
-- Hardware : MCU, FPGA
+- **모터제어** : BLDC/DC Speed Control, AC Position Control, Stepper Control
+- 자율주행 : LiDAR SLAM, Semantic Segmentation, Vehicle Odometry
+- 매니퓰레이터 : Motion Control, 6D Pose Estimation
+- 로켓 : LoRa Communication, GPS/IMU/Barometer Sensor Fusion
 
 ### 현재 기술 스택
-- 언어 : C, C++, C#, Python, Verilog, Assembly
-- 하드웨어 : ATmega128p, ArduinoUNO, STM32, RaspberryPi, Spartan7
-- 통신 : UART, I2C, SPI, LAN(UDP/TCP) 
+- 하드웨어 : MCU(STM32), SBC(RaspberryPi), FPGA(Spartan7)
+- 소프트웨어 : MATLAB/Simulink, ROS2, YOLO, Vivado
+- 통신 : UART, I2C, SPI, Ethernet(UDP/TCP), LoRa
 - 제어 : PI Motor Control
 
 ### 추후 희망 공부 분야
-- 하드웨어 : ESP32, PCB
-- 통신 : Wifi, LoRa, Bluetooth, CAN
-- 제어 : ROS2 Gazebo, RViz / PD, ADRC, Advanced Motor Control
-- 비전 : YOLO
+- 차량통신 : CAN, Ethernet
+- 차량제어 : Pure-Pursuit, Stanley
+- 고급제어 : MPC, KF/EKF, PD/ADRC Motor Control
+- PCB 심화설계
+- 기계설계 및 3D 프린팅
