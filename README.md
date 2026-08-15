@@ -1,12 +1,11 @@
 > Last updated: 2026.08.15
-### 현재 진행중인 과제
-- 자작자율주행차 조향시스템 개발
-- Foundation Pose 기반 6D Pose Estimation 고속화
-- 2026년 임베디드소프트웨어 경진대회 준비
-- 2027년 NURA 전국대학교로켓발사대회 준비
+
+<sub>
+현재 다음과 같은 사항을 진행중입니다 : 자작자율주행차 조향시스템 개발, FoundationPose 기반 6D Pose Estimation 고속화, 2026 임베디드 소프트웨어 경진대회 준비, 2027 NURA 전국대학교 로켓발사대회 준비
+</sub>
 
 ### 주요 프로젝트
-- **모터제어** : BLDC/DC Speed Control, AC Position Control, Stepper Control
+- 모터제어 : BLDC/DC Speed Control, AC Position Control, Stepper Control
 - 자율주행 : LiDAR SLAM, Semantic Segmentation, Vehicle Odometry
 - 매니퓰레이터 : Motion Control, 6D Pose Estimation
 - 로켓 : LoRa Communication, GPS/IMU/Barometer Sensor Fusion
