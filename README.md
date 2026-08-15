@@ -1,5 +1,5 @@
 <sub>
-(Last updated: 2026.08.15.) 현재 다음과 같은 사항을 진행중입니다 : 자작자율주행차 조향시스템 개발, FoundationPose 기반 6D Pose Estimation 고속화, 2026 임베디드 소프트웨어 경진대회 준비, 2027 NURA 전국대학교 로켓발사대회 준비
+(Last updated: 2026.08.15.) 현재 다음 사항을 진행중입니다 : 자작자율주행차 조향시스템 개발, FoundationPose 기반 6D Pose Estimation 고속화, 2026 임베디드 소프트웨어 경진대회 준비, 2027 NURA 전국대학교 로켓발사대회 준비
 </sub>
 
 ### 주요 프로젝트
