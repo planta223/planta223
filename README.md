@@ -1,5 +1,5 @@
 <sub>
-(Last updated: 2026.08.15.) 현재 다음 사항을 진행중입니다 : 자작자율주행차 조향시스템 개발, FoundationPose 기반 6D Pose Estimation 고속화, FoundationPose 기반 2-Pipe 자세추정 인터페이스 구성, Tailscale 기반 Tele-communication 아키텍처 설계, 2027 NURA 전국대학교 로켓발사대회 준비
+(Last updated: 2026.10.15.) 현재 다음 사항을 진행중입니다 : 자작자율주행차 조향시스템 개발, 자작자율주행차 상위제어시스템 개발, 6D 자세 기반 2-Pipe Align 제어 인터페이스 설계, Anti-drone 시스템 개발. 다음 사항은 보류중입니다 : FoundationPose 기반 2-Pipe 자세추정 인터페이스 고도화, FoundationPose 기반 6D Pose Estimation 고속화, 2027 NURA 전국대학교 로켓발사대회 준비
 </sub>
 
 ### 주요 프로젝트
