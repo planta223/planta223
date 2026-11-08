@@ -1,5 +1,5 @@
 <sub>
-(Last updated: 2026.10.15.) 현재 다음 사항을 진행중입니다 : 자작자율주행차 조향시스템 개발, 자작자율주행차 상위제어시스템 개발, 6D 자세 기반 2-Pipe Align 제어 인터페이스 설계, Anti-drone 시스템 개발. 다음 사항은 보류중입니다 : FoundationPose 기반 2-Pipe 자세추정 인터페이스 고도화, FoundationPose 기반 6D Pose Estimation 고속화, 2027 NURA 전국대학교 로켓발사대회 준비
+(Last updated: 2026.11.08.) 현재 다음 사항을 진행중입니다 : FoundationPose - Xarm 자율제어 인터페이스 개발, Anti-drone 시스템 개발. 다음 사항은 보류중입니다 : 자작자율차 조향제어기/상위제어기 사후분석, FoundationPose 기반 2-Pipe 자세추정 인터페이스 최적화
 </sub>
 
 ### 주요 프로젝트
@@ -12,11 +12,12 @@
 - 하드웨어 : MCU(STM32 외), SBC(RaspberryPi 외), FPGA(Spartan7)
 - 소프트웨어 : MATLAB/Simulink, ROS2, YOLO, Vivado
 - 통신 : UART, I2C, SPI, Ethernet(UDP/TCP), CAN, LoRa
-- 제어 : PID Motor Control
+- 제어 : PID Motor Control, Pure-Pursuit
 - PCB  : EasyEDA
-- 기구 : Fusion, Bambu 3D Printing
+- 기구 : Fusion, Bambu Studio
 
 ### 추후 희망 공부 분야
 - 차량통신 : CAN/Ethernet 심화, 무선통신, ISO26262 및 AUTOSAR
-- 차량제어 : Pure-Pursuit, Stanley
+- 차량제어 : Pure-Pursuit 심화, Stanley
 - 고급제어 : MPC, KF/EKF, PD/ADRC Motor Control
+- 로봇제어 : 위치/속도/가속도, Current, Force, Impedence
